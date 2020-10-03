@@ -1,0 +1,105 @@
+
+#title{
+  background-color: #ff414d ;
+  color:#fff;
+}
+.navbar-brand{
+  font-family: 'Montserrat', sans-serif;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.gear-img{
+  text-align: center;
+}
+.top-image
+{
+  width: 60%;
+  height: 90%;
+  position: static;
+}
+.mybtn
+{
+  margin: 5% 3% 5% 0;
+}
+#features{
+  padding:7% 15%;
+}
+.feature-image{
+  color: #ef8172 ;
+  padding-bottom: 20px;
+}
+.feature-image:hover{
+  color: #ff414d ;
+  padding-bottom: 20px;
+}
+h3{
+  font-family: 'Montserrat-dark', sans-serif;
+  font-size: 1.5rem;
+}
+p{
+  color: #8f8f8f;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+#testimonials{
+  padding:7% 15%;
+  text-align: center;
+  background-color: #ff414d ;
+  color: #ffff;
+}
+.carousel-image{
+  margin: 20px;
+}
+.carousel-item{
+padding: 7% 15%;
+}
+h2{
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+#press{
+  background-color: #ff414d ;
+  text-align: center;
+}
+.techcrunch-image{
+  width:16%;
+  margin-right: 35px;
+}
+.nextweb-image{
+  width:20%;
+  margin-right: 25px;
+}
+.businessinsider-image{
+  width:16%;
+}
+.mashable-image{
+  width:16%;
+}
+#pricing{
+  text-align: center;
+  margin: 20px 20px 20px 20px;
+}
+.myrow-pricing{
+  margin-top: 30px;
+}
+#cta{
+  background-color:#ff414d ;
+  color: #fff;
+  text-align: center;
+  margin: 20px 0px 20px 0px;
+}
+.h3-cta{
+  font-family: 'Montserrat-dark', sans-serif;
+  font-size: 1.5rem;
+}
+#footer{
+  text-align: center;
+  padding: 7% 15%;
+}
+.social-icon{
+  margin: 20px 10px;
+}
